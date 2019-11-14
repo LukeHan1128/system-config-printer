@@ -181,7 +181,7 @@ msgstr "선택한 인쇄 작업 취소 "
 #: ../jobviewer.py:439 ../system-config-printer.py:1711
 #: ../ui/PrinterPropertiesDialog.ui.h:40
 msgid "_Delete"
-msgstr "취소(_D) "
+msgstr "삭제(_D) "
 
 #: ../jobviewer.py:440
 msgid "Delete selected jobs"
